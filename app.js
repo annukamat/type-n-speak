@@ -52,7 +52,7 @@ const speak = () => {
     return;
   }
   if (textInput.value !== '') {
-    body.style.background = '#141414 url(images/wave.gif)';
+    body.style.background = '#141414 url(wave.gif)';
     body.style.backgroundRepeat = 'repeat-x';
     body.style.backgroundSize = '100% 100%';
 
